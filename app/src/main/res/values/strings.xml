@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Safiri</string>
+    <string name="login_name">Name</string>
 </resources>
